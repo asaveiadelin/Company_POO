@@ -1,0 +1,29 @@
+Gheorghe Vasile
+1
+1
+20000
+Bulevardul nr.11
+valise@gmail.com
+C++
+Timis Mihai
+3
+3
+50000
+Bulevardul nr.12
+timis.mihai@gmail.com
+2
+Muresan Andrei
+2
+12
+25000
+Bulevardul nr.15
+andrei01@gmail.com
+Java
+Pop Ovidiu
+3
+3
+60000
+Bulevardul nr.20
+ovidiu@gmail.com
+3
+
