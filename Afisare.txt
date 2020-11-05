@@ -1,0 +1,56 @@
+=====================================================================
+                        >Afisare Programator<                        
+=====================================================================
+--->Detalii Angajat.
+	Numele angajatului: Gheorghe Vasile.
+	Gradul angajatului: JUNIOR.
+	ID-ul angajatului: 1.
+	Salariul angajatului: 20000 RON.
+	Adresa angajatului: Bulevardul nr.11.
+	Email-ul angajatul: valise@gmail.com.
+--->Detalii Programator.
+	Limbajul de programare: C++.
+=====================================================================
+
+=====================================================================
+                          >Afisare Manager<                          
+=====================================================================
+--->Detalii Angajat.
+	Numele angajatului: Timis Mihai.
+	Gradul angajatului: TEAM_LEADER.
+	ID-ul angajatului: 3.
+	Salariul angajatului: 50000 RON.
+	Adresa angajatului: Bulevardul nr.12.
+	Email-ul angajatul: timis.mihai@gmail.com.
+--->Detalii Manager.
+	Main Task: VANZARI.
+=====================================================================
+
+=====================================================================
+                        >Afisare Programator<                        
+=====================================================================
+--->Detalii Angajat.
+	Numele angajatului: Muresan Andrei.
+	Gradul angajatului: ENTRY_LEVEL.
+	ID-ul angajatului: 12.
+	Salariul angajatului: 25000 RON.
+	Adresa angajatului: Bulevardul nr.15.
+	Email-ul angajatul: andrei01@gmail.com.
+--->Detalii Programator.
+	Limbajul de programare: Java.
+=====================================================================
+
+=====================================================================
+                          >Afisare Manager<                          
+=====================================================================
+--->Detalii Angajat.
+	Numele angajatului: Pop Ovidiu.
+	Gradul angajatului: TEAM_LEADER.
+	ID-ul angajatului: 3.
+	Salariul angajatului: 60000 RON.
+	Adresa angajatului: Bulevardul nr.20.
+	Email-ul angajatul: ovidiu@gmail.com.
+--->Detalii Manager.
+	Main Task: MARKETING.
+=====================================================================
+
